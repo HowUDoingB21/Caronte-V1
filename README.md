@@ -1,6 +1,6 @@
 # Caronte V1 — Flight Computer Firmware
 
-<img width="1134" height="1134" alt="ORBITAL LOGOS TRANSPARENTE-01" src="https://github.com/user-attachments/assets/21efbf14-4b3f-4d51-ae05-b78b8ec15a03" />
+<img width="1134" height="402" alt="ORBITAL LOGOS TRANSPARENTE-01" src="https://github.com/user-attachments/assets/ea75f0ce-dcaa-4c4f-93cc-ebfea704966a" />
 
 
 <p align="center">
