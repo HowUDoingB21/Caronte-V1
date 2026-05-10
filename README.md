@@ -1,8 +1,7 @@
 # Caronte V1 — Flight Computer Firmware
 
-<p align="center">
-  <img src="docs/orbital_logo.png" alt="Orbital Dynamics" width="200"/>
-</p>
+<img width="1134" height="1134" alt="ORBITAL LOGOS TRANSPARENTE-01" src="https://github.com/user-attachments/assets/21efbf14-4b3f-4d51-ae05-b78b8ec15a03" />
+
 
 <p align="center">
   <b>Orbital Dynamics</b> — Experimental High-Power Rocketry
