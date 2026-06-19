@@ -157,7 +157,7 @@ The placeholder table uses a linear approximation `CL = 0.055 × α`. **Replace 
 
 ## Ground Station
 
-See [`/ground_station`](../ground_station) for the PyQt6 ground station, ESP32 bridge, and telemetry tools.
+See [`/ground_station`](https://github.com/HowUDoingB21/Caronte-GS) for the PyQt6 ground station, ESP32 bridge, and telemetry tools.
 
 ## License
 
